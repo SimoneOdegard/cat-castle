@@ -1,0 +1,1 @@
+document.write('Cat Castle is so cute!');
