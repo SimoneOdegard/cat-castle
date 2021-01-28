@@ -1,1 +1,5 @@
-document.write('Cat Castle is so cute!');
+function cuteCastle(){
+    document.write('Cat Castle is so cute!');
+}
+
+cuteCastle();
